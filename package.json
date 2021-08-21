@@ -1,0 +1,22 @@
+{
+  "name": "please-read-me",
+  "version": "1.0.0",
+  "description": "Using Node.js to allow a user to create a dynamic read me file using a CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javamang21/please-read-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javamang21/please-read-me/issues"
+  },
+  "homepage": "https://github.com/Javamang21/please-read-me#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
