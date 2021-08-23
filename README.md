@@ -38,6 +38,12 @@ This takes the leg work out of creating the most important file on your repo. Be
 - From there you will then download the repo " please-read-me " which contains all of the code needed to run this project. 
 - To download the repo you must click the code button on the top right portion of the github site and copy the link to clone the code on your local device. 
 - From there you will clone the code and install all of the necessary packages. This will require you to install: node, and the npm inquirer module to continue. 
+- Once you follow the instructions, you will be prompted with a series of questions pertaining to the project you want to create a readme.md file for. 
+- This will generate a readme file which will save you time instead of having to create one from scratch every-time. 
+- The prompted questions will also allow you to include a license for any project you are working on. 
+- The readme.md file will be saved and generated in the Develop directory.
+
+
 
 ---
 
