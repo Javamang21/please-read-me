@@ -23,49 +23,52 @@ function renderLicenseBadge(license) {
     
 };
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {
-    if (license === 'No License') {
-        return '';
-    };
-    if (license === 'MIT License') {
-        return `https://opensource.org/licenses/MIT`
-    };
-    if (license === 'Apache License 2.0') {
-        return `https://opensource.org/licenses/Apache-2.0`
-    };
-    if (license === 'BSD 3-Clause License') {
-        return `https://opensource.org/licenses/BSD-3-Clause`
-    };
-    if (license === 'Mozilla Public License 2.0') {
-        return `https://opensource.org/licenses/MPL-2.0`
-    };
-    if (license === 'GNU GPL v3 License') {
-        return `https://www.gnu.org/licenses/gpl-3.0`
-    };
-}
+// // TODO: Create a function that returns the license link
+// // If there is no license, return an empty string
+// function renderLicenseLink(license) {
+//     if (license === 'No License') {
+//         return '';
+//     };
+//     if (license === 'MIT License') {
+//         return `https://opensource.org/licenses/MIT`
+//     };
+//     if (license === 'Apache License 2.0') {
+//         return `https://opensource.org/licenses/Apache-2.0`
+//     };
+//     if (license === 'BSD 3-Clause License') {
+//         return `https://opensource.org/licenses/BSD-3-Clause`
+//     };
+//     if (license === 'Mozilla Public License 2.0') {
+//         return `https://opensource.org/licenses/MPL-2.0`
+//     };
+//     if (license === 'GNU GPL v3 License') {
+//         return `https://www.gnu.org/licenses/gpl-3.0`
+//     };
+// }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
+// // TODO: Create a function that returns the license section of README
+// // If there is no license, return an empty string
+// function renderLicenseSection(license) {}
 
 
 function generateMarkdown(data) {
-return `# ${data.title}
-${renderLicenseBadge(data.license)}
-
-${renderLicenseLink(data.license)}
+return `# ${data.title} 
+${renderLicenseBadge(data.license)} If a license is present you may click on the badge to learn more about that license.
 
 ---
 ## Table Of Contents
 ---
-* [Project Description](#description)
-* [Installation Instructions](#installation)
-* [Usage Information](#usage)
-* [Contribution Guidelines](#contribution)
-* [How to test it](#test)
-* [Questions ?](#myinfo)
+* Project Description(#description)
+
+* Installation Instructions(#installation)
+
+* Usage Information(#usage)
+
+* Contribution Guidelines(#contribution)
+
+* How to test it(#test)
+
+* Questions ?(#myinfo)
 
 ---
 
@@ -93,7 +96,7 @@ ${data.contribution}
 
 ---
 
-<a id="d">test</a>
+<a id="test"></a>
 ## How to test it
 ${data.test}
 

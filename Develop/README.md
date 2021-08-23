@@ -1,54 +1,57 @@
-# Portfolio Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-https://opensource.org/licenses/MIT
+# Portfolio Generator 
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) If a license is present you may click on the badge to learn more about that license.
 
 ---
 ## Table Of Contents
 ---
-* [Project Description](#description)
-* [Installation Instructions](#installation)
-* [Usage Information](#usage)
-* [Contribution Guidelines](#contribution)
-* [How to test it](#test)
-* [Questions ?](#myinfo)
+* Project Description(#description)
+
+* Installation Instructions(#installation)
+
+* Usage Information(#usage)
+
+* Contribution Guidelines(#contribution)
+
+* How to test it(#test)
+
+* Questions ?(#myinfo)
 
 ---
 
 <a id="description"></a>
 ## Project Description
-This project uses Node.js to create a prompt from the CLI to accept user input and return the results through a readme file.
+hfe
 
 ---
 
 <a id="installation"></a>
 ## Installation Instructions
-You must clone the github repository by the repo name: please-read-me. From there go under the develop folder to find the index.js file and then run node index in your console. This will provide you with the prompts to create a readme file for any of your projects.
+fr
 
 ---
 
 <a id="usage"></a>
 ## Usage Information
-A readme is important as it is the first thing anyone will see when visiting your repo.
+fr
 
 ---
 
 <a id="contribution"></a>
 ## Contribution Guidelines
-N/A
+2fr
 
 ---
 
-<a id="d">test</a>
+<a id="test"></a>
 ## How to test it
-The instrutions will provide you with a walkthrough on how to run this project
+f3
 
 ---
 
 <a id="myinfo"></a>
 ## Questions
 If you have any questions please contact me through github or email address. 
-- Github: https://github.com/javamang21
+- Github: https://github.com/fr3
 
-- Email: juliustovar96@gmail.com
+- Email: rf3
   
