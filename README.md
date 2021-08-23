@@ -14,7 +14,7 @@ that will allow a user to generate a readme.md file from any command line interf
 
 * [Languages Used](#Languages)
 
-* [README.md Screenshot](#screenshot)
+* [README.md Screenshot/ Sample README created using this project.](#screenshot)
  
 * [Generated README Demo](#Demo)
 
@@ -51,7 +51,7 @@ This takes the leg work out of creating the most important file on your repo. Be
 ---
 
 <a id="screenshot"></a>
-## README.md Screenshot
+## README.md Screenshot/ Sample README created using this project.
 ![Screen Shot 2021-08-22 at 10 23 50 PM](https://user-images.githubusercontent.com/85512241/130382024-df0d38e6-71f2-40ce-a40c-ebd518716a46.png)
 
 
