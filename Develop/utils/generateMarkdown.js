@@ -53,22 +53,23 @@ function renderLicenseBadge(license) {
 
 function generateMarkdown(data) {
 return `# ${data.title} 
-${renderLicenseBadge(data.license)} If a license is present you may click on the badge to learn more about that license.
+${renderLicenseBadge(data.license)} 
+If a license is present click the badge above to learn more. 
 
 ---
 ## Table Of Contents
 ---
-* Project Description(#description)
+* [Project Description](#description)
 
-* Installation Instructions(#installation)
+* [Installation Instructions](#installation)
 
-* Usage Information(#usage)
+* [Usage Information](#usage)
 
-* Contribution Guidelines(#contribution)
+* [Contribution Guidelines](#contribution)
 
-* How to test it(#test)
+* [How to test it](#test)
 
-* Questions ?(#myinfo)
+* [Questions ?](#myinfo)
 
 ---
 
